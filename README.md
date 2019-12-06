@@ -1,5 +1,4 @@
 # Predicting The 19/20 EPL Season Using Machine Learning
-=====
 Football is if not the most, one of the most widely watched sports in the world, and with such viewership. The English Premier League, often abbreviated as EPL, is the biggest (by viewership) club football league in the world. here we try to predict the outcome of the currently ongoing league based on how teams performed the last season. 
 
 ## Data Gathering
