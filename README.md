@@ -34,7 +34,7 @@ We have used 5 different models to make our predictions, the models with the par
 *XGB Classifier
 *Super Vector Machine (iterations = 10000)
 
-(XGB Classifier was implemented from the (XGBoost)[https://github.com/dmlc/xgboost] library, while the rest were from (sklearn)[https://scikit-learn.org/stable/])
+(XGB Classifier was implemented from the [XGBoost](https://github.com/dmlc/xgboost) library, while the rest were from [sklearn](https://scikit-learn.org/stable/))
 
 Here is the accuracy of our models using various methods
 
